@@ -47,7 +47,7 @@
         "jquery": "^3.5.0",
         "merge-stream": "^2.0.0",
         "node-gyp": "^7.0.0",
-        "startbootstrap-sb-admin-2": "4.0.7"
+        "startbootstrap-sb-admin-2": "4.1.4"
     },
     "devDependencies": {
         "gulp-sass": "^4.0.2"
