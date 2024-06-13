@@ -46,7 +46,7 @@
         "huebee": "^2.1.0",
         "jquery": "^3.5.0",
         "merge-stream": "^2.0.0",
-        "node-gyp": "^7.0.0",
+        "node-gyp": "^7.1.2",
         "startbootstrap-sb-admin-2": "4.0.7"
     },
     "devDependencies": {
