@@ -43,7 +43,7 @@
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "^2.0.0",
         "gulp-uglify": "^3.0.2",
-        "huebee": "^2.1.0",
+        "huebee": "^2.1.1",
         "jquery": "^3.5.0",
         "merge-stream": "^2.0.0",
         "node-gyp": "^7.0.0",

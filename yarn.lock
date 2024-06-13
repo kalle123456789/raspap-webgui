@@ -2081,10 +2081,10 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-huebee@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/huebee/-/huebee-2.1.0.tgz#bd266f66f08250dd4774435d0e8738ce64423766"
-  integrity sha512-2im03Zw7MosL/h389ZwyMFv71JTglM4XvoahPRApajVthqBDS9Ro00zgTv6VKW5AXwZ83pNMDhCXC4TMluCSlg==
+huebee@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/huebee/-/huebee-2.1.1.tgz#0c8ee42f69308834bfe10dba835ec4337a6f2702"
+  integrity sha512-wdQ/lJproHgJyNrbSqyWOyUmNIYU8EMR1tfdY2Ag5tRoQGtT4CIsHWiXqJBctClKj+sf5uiL6VS83ZGLBxE91w==
   dependencies:
     ev-emitter "^1.1.1"
     unipointer "^2.3.0"
